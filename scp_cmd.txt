@@ -1,0 +1,1 @@
+scp -P 10022 root@localhost:/tmp/assignment-4-result.txt /home/vishalraj/AESD/Assignment-1\,2\,3/assignment-1-vishalraj3112/assignments/assignment4/assignment-4-result.txt
