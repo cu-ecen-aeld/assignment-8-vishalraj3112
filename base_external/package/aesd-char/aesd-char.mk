@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_CHAR_VERSION = d26722b6f1557ee418abb711561de3a910ffa69a #commit version number for A7-P2
+AESD_CHAR_VERSION = 8d52910c98781ad6fe57b6deec564533c9eb5081 #commit version number for A8
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
