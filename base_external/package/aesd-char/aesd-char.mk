@@ -3,7 +3,7 @@
 #
 # AESD-CHAR-ASSIGNMENTS
 #
-##############################################################
+###############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
 AESD_CHAR_VERSION = 8d52910c98781ad6fe57b6deec564533c9eb5081 #commit version number for A8
